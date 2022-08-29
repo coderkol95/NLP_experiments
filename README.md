@@ -6,7 +6,7 @@ Current thought process of learning NLP using DL and other musings
 
 2. What are the tasks in NLP
 
-- [x] Sentiment analysis / Document classification
+- [x] Sentiment analysis or Document classification
 - [ ] NER
 - [ ] Text similarity
 - [ ] POS tagging
