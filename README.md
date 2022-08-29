@@ -1,35 +1,38 @@
-Current thought process of learning NLP using DL
+Current thought process of learning NLP using DL and other musings
 
-1. What are the tasks in NLP
+1. 
+- [ ] NLP using DL
+- [ ] Azure MLOps for NLP
 
-- [x] Sentiment analysis
-- [] Document classification
-- [] NER
-- [] Text similarity
-- [] POS tagging
-- [] Information retrieval
-- [] Relation extraction
-- [] Topic modelling
-- [] Annotation
-- [] Summarisation
-- [] Translation
-- [] Image captioning
-- [] Auto completion
-- [] Text generation
+2. What are the tasks in NLP
+
+- [x] Sentiment analysis / Document classification
+- [ ] NER
+- [ ] Text similarity
+- [ ] POS tagging
+- [ ] Information retrieval
+- [ ] Relation extraction
+- [ ] Topic modelling
+- [ ] Annotation
+- [ ] Summarisation
+- [ ] Translation
+- [ ] Image captioning
+- [ ] Auto completion
+- [ ] Text generation
 
 
-2. What are the architectures to cover(for now)
+3. What are the architectures to cover(for now)
 
-- [] RNN
-- [] LSTM
-- [] GRU
-- [] NN
-- [] Transformer
-- [] BERT
-- [] T5
+- [ ] RNN
+- [ ] LSTM
+- [ ] GRU
+- [ ] NN
+- [ ] Transformer
+- [ ] BERT
+- [ ] T5
 
-3. Things I need to know:
+4. Things I need to know in DL / NLP:
 
-- [] Using dataloaders with batch and shuffle options
-- [] Image data loading
-- [] Loss functions - BCE etc.
+- [ ] Using dataloaders with batch and shuffle options
+- [ ] Image data loading
+- [ ] Loss functions - BCE etc.
