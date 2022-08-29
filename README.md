@@ -6,9 +6,12 @@ Current thought process of learning NLP using DL and other musings
 
 2. What are the tasks in NLP
 
-- [x] Sentiment analysis or Document classification
-- [ ] NER
-- [ ] Text similarity
+- [x] Classification: 
+    1. Sentiment analysis
+    2. Document classification
+    3. Text similarity
+    4. Named Entity Recognition
+    
 - [ ] POS tagging
 - [ ] Information retrieval
 - [ ] Relation extraction
@@ -31,7 +34,12 @@ Current thought process of learning NLP using DL and other musings
 - [ ] BERT
 - [ ] T5
 
-4. Things I need to know in DL / NLP:
+4. Libraries/packages to know in NLP:
+
+ - [ ] gensim - Word2Vec
+ - [ ] SpaCy
+
+5. Things I need to know in DL / NLP:
 
 - [ ] Using dataloaders with batch and shuffle options
 - [ ] Image data loading
