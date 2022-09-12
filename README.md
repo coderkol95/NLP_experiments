@@ -8,9 +8,9 @@ Current thought process of learning NLP using DL and other musings
 
 - [x] Classification: 
     - [x] Sentiment analysis - TF / PT
-    - [] Document classification - Lightning
+    - [ ] Document classification - Lightning
     - [x] Text similarity - TF
-    - [] Named Entity Recognition
+    - [ ] Named Entity Recognition
 
 - [ ] POS tagging
 - [ ] Information retrieval
