@@ -3,12 +3,13 @@ Current thought process of learning NLP using DL and other musings
 1. 
 - [ ] NLP using DL
 - [ ] Azure MLOps for NLP
+- [ ] Projects on music
 
 2. What are the tasks in NLP
 
 - [x] Classification: 
     - [x] Sentiment analysis - TF / PT
-    - [ ] Document classification - Lightning
+    - [x] Document classification - Lightning
     - [x] Text similarity - TF
     - [ ] Named Entity Recognition
 
